@@ -1,0 +1,10 @@
+Student_ID,Name,Age,Study_Hours,Attendance,Marks,Performance_Level,Attendance_Category
+101,John Doe,20,15,90,85,Excellent,Good
+102,Jane Smith,22,12,80,78,Good,Good
+103,Emily Johnson,19,18,95,92,Excellent,Good
+104,Michael Brown,21,10,70,65,Average,Low
+105,Jessica Davis,23,14,85,88,Excellent,Good
+106,Daniel Wilson,20,16,88,90,Excellent,Good
+107,Sarah Miller,22,11,75,80,Good,Good
+108,David Anderson,19,17,92,95,Excellent,Good
+109,Laura Thomas,21,13,82,84,Good,Good
